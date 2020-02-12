@@ -1,0 +1,4 @@
+logging:
+  loggers:
+    # Enable debug filtering for CrnkFilter to show when it's executed
+    "io.crnk.rs.CrnkFilter": DEBUG
